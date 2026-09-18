@@ -1,6 +1,15 @@
 /* bdc-gemini-planning :: webfonts
- * 제목 = Noto Serif KR(에디토리얼 세리프) · 본문 = Pretendard · 숫자/eyebrow = JetBrains Mono · 대형 숫자 = Playfair Display */
+ * 제목 = Noto Serif KR · 본문 = Pretendard · 숫자/eyebrow = JetBrains Mono · 대형 숫자 = Playfair Display
+ * Google Fonts 의 가변(variable) 폰트는 Chrome PDF 인쇄 시 Type3(글자 단위)로 들어가 검색·복사가 깨진다.
+ * → fontsource 의 고정 굵기 정적 파일을 쓴다. */
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-kr@5/400.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-kr@5/600.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-kr@5/700.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-kr@5/900.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/playfair-display@5/400.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/playfair-display@5/700.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/playfair-display@5/400-italic.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono@5/400.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono@5/500.css');
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono@5/700.css');

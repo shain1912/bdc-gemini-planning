@@ -15,7 +15,7 @@
   --font-sans:'Pretendard','Noto Sans KR',-apple-system,sans-serif;
   --font-display:'Noto Serif KR','Noto Serif CJK KR',Georgia,serif;
   --font-num:'Playfair Display','Noto Serif KR',Georgia,serif;
-  --font-mono:'JetBrains Mono',Consolas,monospace;
+  --font-mono:'JetBrains Mono','Pretendard',Consolas,monospace; /* 한글은 Pretendard (generic monospace 의 한글 = 굴림체) */
   --letter-tight:-.02em;
   --gutter:96px;
 }
