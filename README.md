@@ -3,7 +3,10 @@
 **서비스 기획 전 과정(시장·사례 조사 → 아이디어 발굴 → 비즈니스 모델 → 기획서 작성·검토 → 시각화 → 업무 템플릿)을 Gemini로 완주하는 실습형 프레젠테이션 (총 41장)**
 조성호 · 부산대학교 AI융합교육원 강사 / KODE KOREA(코드코리아) 대표
 
-- 슬라이드 열기: `index.html` (로컬 서버 권장 · `python -m http.server`)
+👉 **[슬라이드 열기 (GitHub Pages)](https://shain1912.github.io/bdc-gemini-planning/)**
+*(https://shain1912.github.io/bdc-gemini-planning/)*
+
+- 로컬 열기: `index.html` (로컬 서버 권장 · `python -m http.server`)
 - 말투: 모든 줄 명사·형용사 종결 · 실제 입력 프롬프트(`>` 줄)만 구어체
 - 디자인: 에디토리얼(종이 배경 · 세리프 헤드라인 · 괘선 · 모노 번호 · 장식 0) · `T` 키로 잉크(다크) 테마 전환
 
