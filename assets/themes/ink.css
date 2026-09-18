@@ -1,0 +1,10 @@
+/* theme: ink — 에디토리얼 다크(잉크) */
+:root{
+  --bg:#141311;--bg-soft:#1c1a17;--surface:#1c1a17;--surface-2:#242119;
+  --border:#3a352e;--border-strong:#f4f1ea;
+  --text-1:#f4f1ea;--text-2:#cfc8bb;--text-3:#8f877b;
+  --accent:#ff6a3d;--accent-2:#8ea2ff;--accent-3:#ff6a3d;
+  --good:#5fd39a;--warn:#e0a53a;--bad:#ff7b6e;
+  --code-bg:#221f1b;
+  --shadow:none;--shadow-lg:none;
+}

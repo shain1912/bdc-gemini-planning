@@ -1,0 +1,10 @@
+/* theme: paper — 에디토리얼 페이퍼(기본) */
+:root{
+  --bg:#f4f1ea;--bg-soft:#ece8de;--surface:#faf8f3;--surface-2:#ece8de;
+  --border:#d6cfc2;--border-strong:#141311;
+  --text-1:#141311;--text-2:#3d3934;--text-3:#7a7369;
+  --accent:#d8401c;--accent-2:#1f3a93;--accent-3:#d8401c;
+  --good:#1d6547;--warn:#b3791a;--bad:#b5261b;
+  --code-bg:#ebe6da;
+  --shadow:none;--shadow-lg:none;
+}
